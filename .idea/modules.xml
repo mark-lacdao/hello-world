@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../file-downloader/file-downloader.iml" filepath="$PROJECT_DIR$/../file-downloader/file-downloader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-world.iml" filepath="$PROJECT_DIR$/hello-world.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../report-client/report-client.iml" filepath="$PROJECT_DIR$/../report-client/report-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../report-mailer/report-mailer.iml" filepath="$PROJECT_DIR$/../report-mailer/report-mailer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../report-mailer/reportmailer.iml" filepath="$PROJECT_DIR$/../report-mailer/reportmailer.iml" />
+    </modules>
+  </component>
+</project>

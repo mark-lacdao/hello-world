@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="file-downloader" />
+        <module name="hello-world" />
+        <module name="report-client" />
+        <module name="report-mailer" />
+        <module name="reportmailer" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="file-downloader" target="1.8" />
+      <module name="hello-world" target="1.5" />
+      <module name="report-client" target="1.8" />
+      <module name="report-mailer" target="1.8" />
+      <module name="reportmailer" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
